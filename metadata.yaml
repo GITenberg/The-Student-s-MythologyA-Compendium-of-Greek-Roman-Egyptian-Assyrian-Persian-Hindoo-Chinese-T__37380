@@ -1,0 +1,29 @@
+_repo: The-Student-s-MythologyA-Compendium-of-Greek-Roman-Egyptian-Assyrian-Persian-Hindoo-Chinese-T__37380
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: White, Catherine Ann
+    birthdate: 1825
+    deathdate: 1878
+    gutenberg_agent_id: '38810'
+    url: http://www.gutenberg.org/2009/agents/38810
+description: ''
+gutenberg_issued: '2011-09-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37380'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mythology'
+- !lcc 'BL'
+title: 'The Student''s Mythology
+
+  A Compendium of Greek, Roman, Egyptian, Assyrian, Persian, Hindoo, Chinese, Thibetian,
+  Scandinavian, Celtic, Aztec, and Peruvian Mythologies'
+url: http://www.gutenberg.org/ebooks/37380
